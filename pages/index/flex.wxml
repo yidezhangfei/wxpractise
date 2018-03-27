@@ -1,0 +1,11 @@
+<!--pages/index/flex.wxml-->
+<view class="main">
+  <view class="theme">
+    <text>三月祝福</text>
+  </view>
+  <view class="items">
+    <view class="item item1"></view>
+    <view class="item item2"></view>
+    <view class="item item3"></view>
+  </view>
+</view>

@@ -1,0 +1,6 @@
+/* pages/eachfont/eachfont.wxss */
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

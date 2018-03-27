@@ -1,0 +1,6 @@
+<!--pages/eachfont/eachfont.wxml-->
+<view class="main">
+  <block wx:for="{{fontArray}}" wx:key="">
+    <text style="font-size:48px; color:{{fontColor[index]}}">{{item}}</text>
+  </block>
+</view>
